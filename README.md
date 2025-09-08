@@ -461,7 +461,7 @@
                     videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
                 },
                 {
-                    title: '6..染髮技術',
+                    title: '6.染髮技術',
                     subtitle: '染髮課程的學習',
                     content: '從毛髮理論到染劑的化學理論與物理面向',
                     points: 75,
@@ -469,7 +469,7 @@
                     videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
                 },
                 {
-                    title: '7..燙髮技術',
+                    title: '7.燙髮技術',
                     subtitle: '顧客消費單價最高項目',
                     content: '燙髮設計可分為：1.冷塑燙 2.熱塑燙',
                     points: 75,
@@ -477,7 +477,7 @@
                     videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
                 },
                 {
-                    title: '8..剪髮技術',
+                    title: '8.剪髮技術',
                     subtitle: '學習剪髮到底難不難?',
                     content: '剪髮系統分流成：百元剪髮與精準剪髮',
                     points: 75,
@@ -485,7 +485,7 @@
                     videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
                 },
                 {
-                    title: '9..洗髮護髮頭皮護理',
+                    title: '9.洗髮護髮頭皮護理',
                     subtitle: '學習剪髮到底難不難?',
                     content: '剪髮系統分流成：百元剪髮與精準剪髮',
                     points: 75,
@@ -571,7 +571,7 @@
                     videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
                 },
                 {
-                    title: '9.財務管理流程',
+                    title: '19.財務管理流程',
                     subtitle: '財務管理流程',
                     content: '財務管理是每一位創業者都需要重視的核心環節。',
                     isAction: true,
