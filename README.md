@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>美髮經營遊戲化課程</title>
+    <title>美髮經營課程</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
@@ -308,10 +308,10 @@
         <!-- 核心目標與標題 -->
         <div class="text-center mb-8">
             <h1 class="title">美髮經營策略家</h1>
-            <p class="subtitle">美髮經營遊戲化課程 | 讓您成為頂尖沙龍管理者！</p>
+            <p class="subtitle">美髮經營課程 | 讓您成為頂尖沙龍管理者！</p>
         </div>
 
-        <!-- 遊戲化數據顯示區 -->
+        <!-- 數據顯示區 -->
         <div class="grid-container">
             <div class="data-card">
                 <p class="data-label">當前等級</p>
@@ -413,171 +413,132 @@
             currentModuleIndex: 0,
             modules: [
                 {
-                    title: '1. 為何要創業',
+                    title: '0. 為何要創業',
                     subtitle: '暸解自己適合創業嗎?',
                     content: '要找工作還是自己當老闆',
                     points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1gbZn2DTvHiE2B_G06nERXb-Q7AuQvFIh /preview'
                 },
                 {
                     title: '1. 市場調查',
                     subtitle: '我的競爭對手是誰？',
                     content: '只有進行市場調查才能幫助我們找到答案',
-                    points: 75,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1U8qQb6Ob_0pLR-KxtTLDnYcuh0fqqFtW/preview'
                 },
                 {
                     title: '2. 目標客群分析',
                     subtitle: '了解潛在顧客',
                     content: '目標客群分析是針對你的美髮創業展店來識別。',
-                    points: 75,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1K4_D47lq7gVnBl-OFApHuedFwgC3KAjV /preview'
                 },
                 {
                     title: '3.競爭者研究',
                     subtitle: '制定有效策略',
                     content: '競爭者研究是瞭解你的美髮創業展店在市場環境中的位置',
-                    points: 75,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1O5YKOSNwJkiSZS_4sjJvEI0dwKD-CxnR /preview4'
                 },
                 {
                     title: '4.行業趨勢與需求評估',
                     subtitle: '暸解市場及需求者',
                     content: '針對市場環境及人口變化做綜合評估',
-                    points: 75,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1cC2envJ3VySRqNahyUsLbST1U5Nw-T2I /preview'
                 },
                 {
                     title: '5.專業化美髮定位',
                     subtitle: '具備獨特性',
                     content: '沙龍如何在眾多競爭對手中脫穎而出',
-                    points: 75,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
+                    videoUrl: 'https://drive.google.com/file/d/1mx6dCQx22q7MVAMaiH3B5570xDGb8etg /preview'
+                                },
                 {
-                    title: '6.染髮技術',
-                    subtitle: '染髮課程的學習',
-                    content: '從毛髮理論到染劑的化學理論與物理面向',
-                    points: 75,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '7.燙髮技術',
-                    subtitle: '顧客消費單價最高項目',
-                    content: '燙髮設計可分為：1.冷塑燙 2.熱塑燙',
-                    points: 75,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '8.剪髮技術',
-                    subtitle: '學習剪髮到底難不難?',
-                    content: '剪髮系統分流成：百元剪髮與精準剪髮',
-                    points: 75,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '9.洗髮護髮頭皮護理',
-                    subtitle: '學習剪髮到底難不難?',
-                    content: '剪髮系統分流成：百元剪髮與精準剪髮',
-                    points: 75,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '10.選址與佈置',
+                    title: '6.選址與佈置',
                     subtitle: '選址與佈置是沙龍創業的基石，也是成功的開始',
                     content: '一個好的店址不僅能吸引目標客群，更能提升品牌形象。',
                     isAction: true,
-                    points: 100,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1kvB1EkXtp1xxtduubgPEPKtc_uJu7eK4 /preview'
                 },
                 {
-                    title: '11.品牌形象',
+                    title: '7.服務專案',
                     subtitle: '品牌就像是你的臉',
                     content: '視覺吸引力、品牌故事、互動體驗。',
                     isAction: true,
-                    points: 100,
+                    points:50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/11M2Wpx8cTDlYxyzImPhtniOZUhLXtdiH /preview'
                 },
                 {
-                    title: '12.店面設計',
-                    subtitle: '店面就像是你的身材',
-                    content: '空間規劃、照明設計、環境氛圍。',
-                    isAction: true,
-                    points: 100,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '13. 服務價值',
-                    subtitle: '搭配附加服務：造型、護理等…提高客單價',
-                    content: '鎖定單項服務：剪髮、染髮、護髮等…搭配附加服務。',
-                    points: 150,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '14. 定價策略',
-                    subtitle: '選擇合適的定價策略',
-                    content: '美髮服務的定價策略是吸引顧客和提高利潤的關鍵因素。',
-                    points: 150,
-                    completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
-                },
-                {
-                    title: '15.供應鏈管理',
+                    title: '8.供應鏈管理',
                     subtitle: '提升效率、降低成本',
                     content: '良好的供應鏈管理能確保沙龍穩定經營。',
                     isAction: true,
-                    points: 125,
+                    points: 100,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1kvB1EkXtp1xxtduubgPEPKtc_uJu7eK4 /preview'
                 },
                 {
-                    title: '16.人力資源規劃',
+                    title: '9.人力資源規劃',
                     subtitle: '人員招聘到團隊管理策略',
                     content: '開設一間成功的沙龍，不僅需要好的地點和產品，還需要一支高效且團結的團隊。',
-                    points: 200,
+                    points: 50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/16yrBQAjmQYj5fwOPvvZ5m8LRE287YWQ2 /preview'
                 },
                 {
-                    title: 1'7.高端客戶服務',
+                    title: '10.高端客戶服務',
                     subtitle: '為高端客戶提供專屬的服務體驗',
                     content: '高端客戶不僅帶來穩定的收入，更能提升品牌形象。',
                     isAction: true,
-                    points: 300,
+                    points:50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1kXaekwIciXsdwGy4pKnCyuMkohfOzvo_/preview'
                 },
                 {
-                    title: '18.法律與合規',
+                    title: '11.法律與合規',
                     subtitle: '開設沙龍所需的法律知識與合規要求',
                     content: '合法經營不僅能避免潛在風險，更能建立客戶與員工的信任。',
                     isAction: true,
-                    points: 300,
+                    points:50,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/1LmhYPbc-jUBJhtUWv11kIBoXy60yizrJ /preview'
                 },
                 {
-                    title: '19.財務管理流程',
+                    title: '12.財務管理流程',
                     subtitle: '財務管理流程',
                     content: '財務管理是每一位創業者都需要重視的核心環節。',
                     isAction: true,
-                    points: 300,
+                    points: 100,
                     completed: false,
-                    videoUrl: 'https://www.w3schools.com/html/mov_bbb.mp4'
+                    videoUrl: 'https://drive.google.com/file/d/18GQ8LguusbO7nKHRNl9dwdzFmRi1H-Be /preview'
+                },
+                {
+                    title: '13.低成本創業',
+                    subtitle: '低成本創業',
+                    content: '如何做低成本創業。',
+                    isAction: true,
+                    points:100,
+                    completed: false,
+                    videoUrl: 'https://drive.google.com/file/d/1gY-HmrC_qWmHTOJJ3vV_lnMiN32_RpEH /preview'
+                },
+                {
+                    title: '14.獲客變現',
+                    subtitle: '獲客變現',
+                    content: '低成本行銷也能獲客變現。',
+                    isAction: true,
+                    points: 100,
+                    completed: false,
+                    videoUrl: 'https://drive.google.com/file/d/1XWDIlKWw_ueGTIhfW8tld2KPp1jD_TBt /preview'
                 }
             ]
         };
